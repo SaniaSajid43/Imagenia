@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "831855769213",
+    "project_id": "imagenia-af2ee",
+    "storage_bucket": "imagenia-af2ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831855769213:android:bc4954b8378f34623b2314",
+        "android_client_info": {
+          "package_name": "com.example.imageniaa_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831855769213-2e3npn00btvsgoq052regp50fqq1b0bh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imageniaa_app",
+            "certificate_hash": "b7dd9e4bb551161b597fc647921d5691327c3425"
+          }
+        },
+        {
+          "client_id": "831855769213-9lo0q24p94canvol2rmk233tlk0objmu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imageniaa_app",
+            "certificate_hash": "f248a2fb624e0ac8fcdece150c408427499b8982"
+          }
+        },
+        {
+          "client_id": "831855769213-o98t9pkl93dmmo3kc5sprr0ggbd0m7cm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imageniaa_app",
+            "certificate_hash": "02946f39d685123ae8c66734018d08185732e318"
+          }
+        },
+        {
+          "client_id": "831855769213-bqd426vitln2t71ufkf16135dv2d6r7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMDI2iVcqQbtM6d9uqSbFQC-gnebF4lWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831855769213-bqd426vitln2t71ufkf16135dv2d6r7p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "831855769213-bk0utk3bt598rndf1bi3c6hakc1fsoqs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.imageniaaApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
