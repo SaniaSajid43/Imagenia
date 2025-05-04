@@ -41,3 +41,24 @@ To set up the project locally:
 
    ```bash
    git clone https://github.com/SaniaSajid43/Imagenia.git
+2. Navigate to the project folder:
+ ```bash
+cd Imagenia
+3. Install Flutter dependencies:
+
+ ```bash
+flutter pub get
+
+4. Run the app:
+ ```bash
+flutter run
+Ensure your Python backend server is running to process requests.
+
+📚 Resources
+Flutter Documentation
+Dart Language Guide
+Speech-to-Text in Flutter
+
+👩‍💻 Developer
+Sania Sajid
+GitHub: SaniaSajid43
